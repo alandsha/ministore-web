@@ -1,0 +1,52 @@
+{
+  "hero": {
+    "tagline": "Juega sin límites",
+    "title": "Nunca más te pierdas el texto del juego con SnapVoice",
+    "description": "SnapVoice captura y lee en voz alta el texto de tus juegos, para que puedas concentrarte en jugar sin perderte diálogos importantes, misiones o historia.",
+    "cta": {
+      "trial": "Prueba Gratuita",
+      "howItWorks": "Cómo Funciona"
+    },
+    "users": "Únete a más de 10,000 jugadores que están mejorando su experiencia de juego con SnapVoice"
+  },
+  "nav": {
+    "features": "Características",
+    "howItWorks": "Cómo Funciona",
+    "pricing": "Precios",
+    "faq": "Preguntas Frecuentes",
+    "signIn": "Iniciar Sesión",
+    "signOut": "Cerrar Sesión"
+  },
+  "features": {
+    "title": "Funciones para Jugar Sin Interrupciones",
+    "subtitle": "Todo lo que necesitas para seguir jugando mientras escuchas"
+  },
+  "pricing": {
+    "title": "Elige tu Plan",
+    "subtitle": "Incluye prueba gratuita de 7 días. Cancela cuando quieras.",
+    "period": "mes",
+    "enterprise": {
+      "title": "¿Necesitas un plan personalizado?",
+      "cta": "Contáctanos"
+    }
+  },
+  "auth": {
+    "signIn": "Iniciar Sesión",
+    "signUp": "Crear Cuenta",
+    "googleContinue": "Continuar con Google",
+    "emailContinue": "O continuar con correo",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "noAccount": "¿No tienes una cuenta? Regístrate",
+    "hasAccount": "¿Ya tienes una cuenta? Inicia sesión",
+    "success": {
+      "registration": "¡Registro exitoso! Por favor revisa tu correo.",
+      "signIn": "¡Inicio de sesión exitoso!",
+      "signOut": "Sesión cerrada exitosamente"
+    },
+    "error": {
+      "google": "Error al iniciar sesión con Google",
+      "signOut": "Error al cerrar sesión"
+    }
+  }
+}

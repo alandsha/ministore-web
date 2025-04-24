@@ -1,0 +1,52 @@
+{
+  "hero": {
+    "tagline": "Game without limits",
+    "title": "Never miss in-game text again with SnapVoice",
+    "description": "SnapVoice captures and reads text from your games aloud, so you can focus on gameplay while never missing important dialogue, quests, or lore.",
+    "cta": {
+      "trial": "Start Free Trial",
+      "howItWorks": "See How It Works"
+    },
+    "users": "Join 10,000+ gamers who are enhancing their gaming experience with SnapVoice"
+  },
+  "nav": {
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "pricing": "Pricing",
+    "faq": "FAQ",
+    "signIn": "Sign In",
+    "signOut": "Sign Out"
+  },
+  "features": {
+    "title": "Features for Uninterrupted Gaming",
+    "subtitle": "Everything you need to keep playing while listening"
+  },
+  "pricing": {
+    "title": "Choose Your Plan",
+    "subtitle": "7-day free trial included. Cancel anytime.",
+    "period": "month",
+    "enterprise": {
+      "title": "Need a custom plan?",
+      "cta": "Contact us"
+    }
+  },
+  "auth": {
+    "signIn": "Sign In",
+    "signUp": "Create Account",
+    "googleContinue": "Continue with Google",
+    "emailContinue": "Or continue with email",
+    "email": "Email",
+    "password": "Password",
+    "noAccount": "Don't have an account? Sign up",
+    "hasAccount": "Already have an account? Sign in",
+    "success": {
+      "registration": "Registration successful! Please check your email.",
+      "signIn": "Successfully signed in!",
+      "signOut": "Signed out successfully"
+    },
+    "error": {
+      "google": "Error signing in with Google",
+      "signOut": "Error signing out"
+    }
+  }
+}
